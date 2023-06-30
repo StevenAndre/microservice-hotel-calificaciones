@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: defaukt-DEV
 eureka:
   instance:
     prefer-ip-address: true
